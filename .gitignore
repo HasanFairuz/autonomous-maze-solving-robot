@@ -1,0 +1,14 @@
+# Editor and operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Local ROBOTC or compiled output artifacts
+*.exe
+*.obj
+*.o
+*.log

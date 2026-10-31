@@ -1,10 +1,14 @@
+<div align="center">
+
 # Autonomous Maze-Solving Robot — LEGO Mindstorms EV3
 
 **ROBOTC · Ultrasonic sensing · Touch sensors · Motor encoders · Maze mapping · Route simplification**
 
 A group-built autonomous mobile robot developed for **MSE 110: Mechatronic Design I** at **Simon Fraser University**. The LEGO Mindstorms EV3 robot was designed to navigate a **4 × 6 cell maze**, sense walls, maintain an in-memory maze representation, and return towards its starting position after reaching a configured target.
 
-![LEGO Mindstorms EV3 maze solver inside a test maze](media/Maze%20Solver%20In%20Action.jpg)
+</div>
+
+---
 
 ## Project at a glance
 
@@ -35,9 +39,17 @@ The robot uses two independently driven EV3 large motors for motion. An ultrason
 
 ## Robot photographs
 
-| Prototype | In the maze |
-|---|---|
-| ![EV3 maze-solving robot on workbench](media/Maze%20Solver.jpg) | ![EV3 robot inside the maze](media/Maze%20Solver%20In%20Action.jpg) |
+### Prototype on the workbench
+
+<p align="center">
+  <img src="media/Maze%20Solver.jpg" alt="EV3 maze-solving robot on the workbench" width="520" />
+</p>
+
+### Robot in the test maze
+
+<p align="center">
+  <img src="media/Maze%20Solver%20In%20Action.jpg" alt="LEGO EV3 robot navigating the physical test maze" width="520" />
+</p>
 
 ## Source and technical notes
 
@@ -59,4 +71,8 @@ Open `src/MazeSolverPhysical.c` in a ROBOTC environment compatible with LEGO EV3
 
 This was a **group project (Group 17)**, not an individual-only build. The source preserves the original group's program structure; sensitive student identification numbers have been removed. The university assignment handout and an unformatted intermediate backup are retained outside this public repository. No third-party EV3 firmware or proprietary ROBOTC tooling is bundled.
 
-**Portfolio:** [hasanfairuz.com](https://www.hasanfairuz.com/)
+## Portfolio
+
+**Hasan Fairuz** — Mechatronic Systems Engineering
+
+[Engineering Portfolio](https://hasanfairuz.com/) · [GitHub Profile](https://github.com/HasanFairuz)

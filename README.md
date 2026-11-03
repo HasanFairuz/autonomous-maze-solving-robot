@@ -37,6 +37,11 @@ The robot uses two independently driven EV3 large motors for motion. An ultrason
 
 **Algorithmic qualification:** This implementation simplifies the route actually travelled. It does **not** perform a full-graph shortest-path search, and no claim of a globally shortest route is made.
 
+## Demonstration
+
+![EV3 maze-solving robot demonstration](media/Maze%20Solving.gif)
+
+*Animated demonstration of the EV3 robot navigating the maze.*
 ## Robot photographs
 
 ### Prototype on the workbench
